@@ -1,14 +1,6 @@
 package ba.unsa.etf.rpr.tutorijal05;
 
 import javafx.beans.property.SimpleStringProperty;
-import javafx.event.ActionEvent;
-import javafx.fxml.FXML;
-import javafx.scene.control.Button;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.StackPane;
-import javafx.scene.text.Text;
-
-import java.awt.*;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 

@@ -1,6 +1,6 @@
-#plus{
+#equalsBtn{
 -fx-background-color: #ff5f5b;
 }
 #rectangle{
-    fill="#09b01f8d";
+    -fx-background-color: rgba(10, 176, 30, 0.55);
 }

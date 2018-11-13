@@ -41,11 +41,14 @@
       <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="77.0" text="3" GridPane.columnIndex="2" GridPane.rowIndex="4" />
       <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="124.0" text="0" GridPane.columnSpan="2" GridPane.rowIndex="5" />
       <Button mnemonicParsing="false" prefHeight="63.0" prefWidth="78.0" text="+" GridPane.columnIndex="3" GridPane.rowIndex="2" GridPane.rowSpan="2" />
-      <Button mnemonicParsing="false" prefHeight="67.0" prefWidth="52.0" text="=" GridPane.columnIndex="3" GridPane.rowIndex="4" GridPane.rowSpan="2" />
+      <Button mnemonicParsing="false" prefHeight="67.0" prefWidth="64.0" text="=" GridPane.columnIndex="3" GridPane.rowIndex="4" GridPane.rowSpan="2" />
       <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="63.0" text="." GridPane.columnIndex="2" GridPane.rowIndex="5" />
       <Label prefHeight="41.0" prefWidth="261.0" GridPane.columnSpan="4" />
    </children>
    <cursor>
       <Cursor fx:constant="DEFAULT" />
    </cursor>
+   <opaqueInsets>
+      <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+   </opaqueInsets>
 </GridPane>
